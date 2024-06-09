@@ -19,13 +19,13 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 a.Planning and analysis -entails preparation and examination of the problem.
 b.Define requirements -gather user requirements.
 c.Design -entails coming up with drawings.
-d.Development-enatils writing code and removing bugs.
+d.Development-entails writing code and removing bugs.
 e.Testing -entails ensuring that the software works as it should. e.g component testing,sytem testing and acceptance testing.
-f.Deployment -entails rolling out sosftware.
+f.Deployment -entails rolling out software.
 g.Maintenance -entails bug fixing.
 
 Agile vs. Waterfall Models:
-Agile model is used when one requires flexibility as it enables change when needed while waterfall is a model that requires one to know whats needed as step two can only be done when step one is done until the end.
+Agile model is used when one requires flexibility as it enables change when needed while waterfall is a model that requires one to know whats needed as next step can only be done when step before it is completed.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Key difference: Agile enables adaptability while waterfall is plan driven.
@@ -66,11 +66,11 @@ Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Version control systems - software tools that assist software teams to manage changes that occur in source code over a period of time.
 It is important as it enables improved code quality due to continued peer reviews.
-examples:           features
-a. GitHub - local branching, multiple workflows, convenient staging areas.
-b. Beanstalk - uses browser and cloud.
-c. Gitlab -project website, integrsted project.
-d. Apache subversion -inventory management, security management, history tracking.
+examples:                features
+a. GitHub               - local branching, multiple workflows, convenient staging areas.
+b. Beanstalk            - uses browser and cloud.
+c. Gitlab               -project website, integrsted project.
+d. Apache subversion    -inventory management, security management, history tracking.
 
 Software Project Management:
 
@@ -78,7 +78,7 @@ Discuss the role of a software project manager. What are some key responsibiliti
 Software managers role is to ensure successful completion of projects.
 Responsibilities: 
 a.writes project proposal
-b.cost estimations,
+b.cost estimations
 c.scheduling
 d.project staffing  
 e.risk management 
